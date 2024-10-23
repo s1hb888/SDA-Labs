@@ -6,7 +6,7 @@ package com.mycompany.purefabrication;
 
 /**
  *
- * @author UBH Laptops
+ * @author hudda abbasi
  */
 class BillCalculator {
     public double calculateTotal(double[] prices) {
